@@ -1,0 +1,12 @@
+{
+    "name": "wende/wirecard",
+    "authors": [
+        {
+            "name": "Wendell Vieira",
+            "email": "wendell.vieiracunha@gmail.com"
+        }
+    ],
+    "require": {
+        "moip/moip-sdk-php": "^3.1"
+    }
+}
